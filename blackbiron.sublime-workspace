@@ -1,0 +1,799 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"pos",
+				"pos:r	position:relative"
+			],
+			[
+				"ds",
+				"display"
+			],
+			[
+				"transparn",
+				"transparent"
+			],
+			[
+				"total",
+				"totalans"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"hover",
+				"hover-button"
+			],
+			[
+				"box-s",
+				"box-sizing	compass"
+			],
+			[
+				"back",
+				"backstretched"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"lo",
+				"lowercase"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"coun",
+				"countdown_num"
+			],
+			[
+				"f",
+				"fl	float"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"backgru",
+				"background-image"
+			],
+			[
+				"pagination",
+				"pagination_setting"
+			],
+			[
+				"overflo",
+				"overflow-y"
+			],
+			[
+				"nor",
+				"no-repeat"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"tem",
+				"template"
+			],
+			[
+				"htmlsp",
+				"htmlspecialchars_decode"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"po",
+				"pos:r	position:relative"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"footer-",
+				"footer-color"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"dark",
+				"darkblue"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"thum",
+				"thumbpost-content"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pa",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"doc",
+				"Set Syntax: JavaDoc"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ham",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"md",
+				"Set Syntax: Markdown"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"todo",
+				"SimpleTODO: List TODO"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"php",
+				"Tidy PHP"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"pph",
+				"Set Syntax: PHP"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/blackbiron/webdata/ruby/mockup/blackbiron.github.io/source/layouts/layout.haml",
+		"/Users/blackbiron/webdata/ruby/mockup/blackbiron.github.io/source/stylesheets/_variables.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr.github.io/source/layouts/layout.haml",
+		"/Users/blackbiron/webdata/ruby/mockup/blackbiron.github.io/config.rb",
+		"/Users/blackbiron/webdata/ruby/mockup/blackbiron.github.io/source/stylesheets/_base.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/blackbiron.github.io/source/stylesheets/all.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr.github.io/source/stylesheets/_variables.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr.github.io/config.rb",
+		"/Users/blackbiron/webdata/ruby/mockup/arman/config.rb",
+		"/Users/blackbiron/webdata/ruby/mockup/blackbiron.github.com/helpers/site_helpers.rb",
+		"/Users/blackbiron/webdata/ruby/mockup/blackbiron.github.com/Gemfile",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/frontend/source/stylesheets/_variables.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/frontend/source/stylesheets/_elements/header.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr.github.io/source/index.haml",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/app/source/javascripts/site.coffee",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/frontend/source/stylesheets/_elements/layout.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/app/source/stylesheets/_base.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/app/source/authorize.haml",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/app/source/stylesheets/all.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/app/source/layouts/layout.haml",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/app/source/login.haml",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/app/source/404.haml",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/app/source/stylesheets/_variables.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/frontend/source/stylesheets/_custom-variables.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/frontend/source/stylesheets/_elements/main.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/frontend/source/layouts/layout.haml",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/frontend/source/_nav/_galeri.haml",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/frontend/helpers/site_helpers.rb",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/frontend/source/_nav/_indonesia.haml",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/frontend/source/_nav/_dunia.haml",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/logs/_index.php",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/backend/source/stylesheets/_variables.sass",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/classes/controller/admin/contents.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/contents/index.php",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/backend/build/stylesheets/admin.css",
+		"/Users/blackbiron/webdata/php/bmk/assets/stylesheets/admin.css",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/contents/_index.php",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/backend/source/stylesheets/admin.sass",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/dashboard.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/config/asset.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/core/config/asset.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/classes/controller/admin/pages.php",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/backend/source/stylesheets/_custom-variables.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/frontend/source/stylesheets/_elements/sidebar.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/frontend/source/stylesheets/_variables.scss",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr/frontend/source/stylesheets/all.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr.github.io/source/javascripts/site.coffee",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr.github.io/source/stylesheets/all.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/beautiplan/opalz/source/stylesheets/_var.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/beautiplan/opalz/source/stylesheets/_base.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/beautiplan/opalz/source/stylesheets/all.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/beautiplan/opalz/source/javascripts/all.coffee",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr.github.io/source/CNAME",
+		"/Users/blackbiron/webdata/ruby/mockup/beautiplan/opalz/source/stylesheets/_typography.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/beautiplan/opalz/source/stylesheets/_nav.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/beautiplan/opalz/build/stylesheets/all.css",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/help/view/news-page-report.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/help/view/dashboard.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/help/index.php",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr.github.io/source/stylesheets/_typography.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr.github.io/source/stylesheets/_base.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/beautiplan/opalz/config.rb",
+		"/Users/blackbiron/webdata/ruby/mockup/beautiplan/opalz/build/javascripts/all.js",
+		"/Users/blackbiron/webdata/php/beautiplan/themes/beautiplan-opalz/desktop/assets/js/all.js",
+		"/Users/blackbiron/webdata/php/beautiplan/protected/components/Controller.php",
+		"/Users/blackbiron/webdata/ruby/mockup/beautiplan/opalz/build/javascripts/preload.js",
+		"/Users/blackbiron/webdata/php/beautiplan/.htaccess",
+		"/Users/blackbiron/webdata/php/beautiplan/.gitignore",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr.github.io/.gitignore",
+		"/Users/blackbiron/webdata/ruby/mockup/mwc/source/index.haml",
+		"/Users/blackbiron/webdata/ruby/mockup/mwc/source/stylesheets/all.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/mediasteamr.github.io/helpers/site_helpers.rb",
+		"/Users/blackbiron/webdata/ruby/mockup/platform/backend/source/stylesheets/admin.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/platform/backend/build/stylesheets/admin.css",
+		"/Users/blackbiron/webdata/php/bmk/assets/stylesheets/error-page.css",
+		"/Users/blackbiron/webdata/ruby/mockup/platform/backend/build/stylesheets/error-page.css",
+		"/Users/blackbiron/webdata/ruby/mockup/beautiplan/mobile/source/stylesheets/site.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/beautiplan/mobile/source/stylesheets/all.sass",
+		"/Users/blackbiron/webdata/php/beautiplan/themes/beautiplan-opalz/desktop/assets/css/all.css",
+		"/Users/blackbiron/webdata/php/beautiplan/themes/beautiplan-opalz/desktop/assets/css/hack.css",
+		"/Users/blackbiron/webdata/php/beautiplan/themes/beautiplan-opalz/desktop/views/layouts/main.php",
+		"/Users/blackbiron/webdata/php/beautiplan/protected/modules/users/components/widgets/PopupLogin/views/popup.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/_nav.php",
+		"/Users/blackbiron/webdata/php/beautiplan/themes/beautiplan-opalz/desktop/views/_partial/top_navbar.php",
+		"/Users/blackbiron/webdata/php/beautiplan/themes/beautiplan-opalz/desktop/views/_partial/user_navigation.php",
+		"/Users/blackbiron/webdata/php/beautiplan/themes/beautiplan-opalz/desktop/views/_partial/nav.php",
+		"/Users/blackbiron/webdata/php/beautiplan/themes/beautiplan-opalz/desktop/views/_partial/header.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/users/index.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/statistics/index.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/polls/index.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/maps/index.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/simulator/index.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/classes/controller/admin/help.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/classes/controller/admin.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/_contents.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/contents/view.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/template.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/help/view/simulator.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/help/view/report.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/help/view/page.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/help/view/news.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/help/view/map.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/help/template.php",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/contents/edit.php",
+		"/Users/blackbiron/webdata/ruby/mockup/platform/backend/source/javascripts/admin.coffee",
+		"/Users/blackbiron/webdata/php/bmk/assets/javascripts/admin.js",
+		"/Users/blackbiron/webdata/ruby/mockup/platform/backend/build/javascripts/admin.js",
+		"/Users/blackbiron/webdata/ruby/mockup/platform/backend/source/javascripts/_vendor/jquery-ui-1.10.3.min.js",
+		"/Users/blackbiron/webdata/ruby/mockup/platform/backend/build/login/index.html",
+		"/Users/blackbiron/webdata/php/bmk/fuel/app/views/admin/login.php",
+		"/Users/blackbiron/webdata/ruby/mockup/platform/backend/build/index.html",
+		"/Users/blackbiron/webdata/ruby/mockup/platform/backend/source/stylesheets/_variables.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/platform/backend/source/stylesheets/_typography.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/platform/backend/source/layouts/layout.haml",
+		"/Users/blackbiron/webdata/ruby/mockup/platform/backend/source/stylesheets/_base.sass",
+		"/Users/blackbiron/webdata/ruby/mockup/platform/backend/build/javascripts/site.js",
+		"/Users/blackbiron/webdata/php/bmk/.htaccess",
+		"/Users/blackbiron/Library/Caches/Cleanup At Startup/Transmit/5C395B88-593B-4130-A3F0-6273415970BB/.htaccess",
+		"/Users/blackbiron/webdata/ruby/mockup/fap/helpers/site_helpers.rb",
+		"/Users/blackbiron/webdata/ruby/mockup/fap/source/2013-09-22-deep-groove.haml",
+		"/Users/blackbiron/webdata/ruby/mockup/fap/source/2013-09-22-yummy-cock.haml",
+		"/Users/blackbiron/webdata/ruby/mockup/fap/config.rb",
+		"/Users/blackbiron/webdata/ruby/mockup/fap/source/layouts/layout.haml",
+		"/Users/blackbiron/webdata/ruby/mockup/fap/source/index.haml",
+		"/Users/blackbiron/webdata/ruby/mockup/fap/source/_paginator.haml",
+		"/Users/blackbiron/webdata/ruby/mockup/fap/source/2013-09-22-example-article.html.markdown",
+		"/Users/blackbiron/webdata/ruby/mockup/fap/source/2012-01-01-example-article.html.markdown",
+		"/Users/blackbiron/webdata/ruby/mockup/fap/source/tag.html.erb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/blackbiron/.rvm/gems/ruby-1.9.3-p448/gems/middleman-blog-3.3.0",
+			"/Users/blackbiron/webdata/ruby/mockup/platform/frontend/source/stylesheets",
+			"/Users/blackbiron/webdata/ruby/mockup/platform/frontend/source/stylesheets/_elements",
+			"/Users/blackbiron/webdata/php/beautiplan",
+			"/Users/blackbiron/webdata/php/beautiplan/themes/beautiplan-opalz/desktop/assets/css",
+			"/Users/blackbiron/webdata/php/bmk/fuel/app/classes/controller",
+			"/Users/blackbiron/webdata/php/bmk/fuel/app/views",
+			"/Users/blackbiron/webdata/php/bmk/fuel/app/classes/controller",
+			"/Users/blackbiron/webdata/php/bmk/fuel/app",
+			"/Users/blackbiron/webdata/php/bmk",
+			"/Users/blackbiron/webdata/ruby/mockup/platform/frontend/felici/source/stylesheets",
+			"/Users/blackbiron/webdata/php/sixreps",
+			"/Users/blackbiron/webdata/php/beautiplan/themes/beautiplan-opalz/desktop/views",
+			"/Users/blackbiron/webdata/php/beautiplan/protected/components",
+			"/Users/blackbiron/webdata/php/beautiplan/protected/runtime",
+			"/Users/blackbiron/webdata/php/beautiplan/protected/tests",
+			"/Users/blackbiron/webdata/php/beautiplan/protected/views",
+			"/Users/blackbiron/webdata/php/beautiplan/protected",
+			"/Users/blackbiron/webdata/php/beautiplan/themes/beautiplan-opalz",
+			"/Users/blackbiron/webdata/php/beautiplan/themes/beautiplan-opalz/desktop/assets/js",
+			"/Users/blackbiron/webdata/ruby/mockup/beautiplan/opalz/source/stylesheets",
+			"/Users/blackbiron/webdata/ruby/mockup/beautiplan/opalz/source/stylesheets/_layout",
+			"/Users/blackbiron/webdata/ruby/mockup/beautiplan/opalz/source/stylesheets",
+			"/Users/blackbiron/webdata/ruby/mockup/beautiplan/opalz/source",
+			"/Users/blackbiron/webdata/ruby/mockup/beautiplan/opalz/source/stylesheets",
+			"/Users/blackbiron/webdata/ruby/mockup/platform/frontend/felici/source/stylesheets",
+			"/Users/blackbiron/webdata/ruby/mockup/digibeat/source",
+			"/Users/blackbiron/webdata/ruby/mockup/digibeat",
+			"/Users/blackbiron/webdata/ruby/mockup/beautiplan/opalz/source/stylesheets",
+			"/Users/blackbiron/webdata/ruby/mockup/beautiplan/opalz/source",
+			"/Users/blackbiron/webdata/ruby/mockup/beautiplan/opalz",
+			"/Users/blackbiron/webdata/ruby/mockup/beautiplan/opalz/source/stylesheets",
+			"/Users/blackbiron/webdata/php/beautiplan/themes/beautiplan-opalz/desktop/views",
+			"/Users/blackbiron/webdata/php/fappulous/fuel/core",
+			"/Users/blackbiron/webdata/php/fappulous/fuel/packages",
+			"/Users/blackbiron/webdata/php/fappulous/fuel/core/classes",
+			"/Users/blackbiron/webdata/php/fappulous/fuel/core/classes/database",
+			"/Users/blackbiron/webdata/php/fappulous/fuel/app/views/admin/networks",
+			"/Users/blackbiron/webdata/php/siete/fuel/packages/auth",
+			"/Users/blackbiron/webdata/php/fappulous/fuel/packages",
+			"/Users/blackbiron/webdata/php/fappulous/fuel/packages/auth",
+			"/Users/blackbiron/webdata/php/fappulous/fuel/packages",
+			"/Users/blackbiron/webdata/php/fappulous/fuel/packages/auth",
+			"/Users/blackbiron/webdata/php/fappulous/fuel/packages/oil",
+			"/Users/blackbiron/webdata/php/bmk/fuel/app/views",
+			"/Users/blackbiron/webdata/php/bmk/fuel",
+			"/Users/blackbiron/webdata/php/bmk/fuel/packages/auth/classes/auth",
+			"/Users/blackbiron/webdata/php/bmk/fuel",
+			"/Users/blackbiron/webdata/ruby/mockup/beautiplan/opalz/source/stylesheets/_layout",
+			"/Users/blackbiron/webdata/php/beautiplan/themes/beautiplan-opalz",
+			"/Users/blackbiron/webdata/php/beautiplan/protected",
+			"/Users/blackbiron/webdata/php/beautiplan/themes/beautiplan-opalz",
+			"/Users/blackbiron/webdata/ruby/mockup/bmk/source/javascripts/_vendor",
+			"/Users/blackbiron/webdata/php/bmk/fuel",
+			"/Users/blackbiron/webdata/php/bmk/fuel/packages/auth",
+			"/Users/blackbiron/webdata/php/beautiplan/protected/config"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";",
+			"$page",
+			"$pages",
+			"border",
+			"{",
+			";",
+			"! =",
+			"= =",
+			"=  ",
+			"  =",
+			"=",
+			"}",
+			"{",
+			"@mixin ",
+			"@include ",
+			";",
+			"close",
+			";",
+			"tag",
+			"Tag",
+			"tag",
+			"ta",
+			"categor",
+			"calend",
+			"grid",
+			"border",
+			"med",
+			"medium",
+			"back",
+			";",
+			".logo",
+			".row",
+			"top-bar",
+			"rails",
+			"thumbpost-th",
+			"brand-lists",
+			"brand-list",
+			"superfish",
+			"foundation()",
+			"foundation",
+			"all.js",
+			"icon-s1e5e30c8e9.png",
+			"icon-s84d1414385.png",
+			"icon-",
+			".close",
+			"close",
+			";",
+			"footer",
+			"color",
+			"top-bar",
+			";",
+			"}",
+			"{",
+			"widt",
+			"redirect",
+			"group",
+			")[",
+			"](",
+			"webdata",
+			"homepage",
+			"homepage-top",
+			"Sample Post Title ",
+			"Parent Menu ",
+			"approved",
+			"has_access",
+			"Something went wrong, did you cancel?",
+			"db",
+			"close",
+			"selector",
+			"select",
+			"infinite",
+			"infini",
+			"db",
+			"redis",
+			"#student",
+			"-date",
+			".rightbar",
+			"social",
+			".socials",
+			"socials",
+			"profile-social",
+			".profile-soci",
+			".profile-so",
+			"backstr",
+			"bac",
+			"#main",
+			"_foundation",
+			"products",
+			"share",
+			"announce",
+			"follow",
+			"nav",
+			"main",
+			"main-nav",
+			"nav",
+			"#user",
+			"profile-in",
+			"#user",
+			".thumbpost",
+			"footer",
+			"line-hei",
+			"p",
+			".thumbpost",
+			".thumbpost-content",
+			".widget",
+			"h4",
+			"thumbpost-content",
+			".rightbar",
+			"rightbar",
+			"palette",
+			"@include ",
+			"related",
+			".submenu-category",
+			".large-",
+			"#",
+			"/foundation/",
+			"/_foundation",
+			"_vendor",
+			"play",
+			".play",
+			"play",
+			"top 10 chart",
+			"pag",
+			".pag",
+			"pag",
+			"pa",
+			"shares",
+			"share"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"$content",
+			"$contents",
+			"",
+			"!=",
+			"==",
+			"= ",
+			" =",
+			" = ",
+			"",
+			"=",
+			"+",
+			"",
+			"Star",
+			"star",
+			"",
+			"icon.png",
+			"icon-s1e5e30c8e9.png",
+			"",
+			"Sample post title ",
+			"Parent menu ",
+			"foundation",
+			"+",
+			".small-",
+			"/_foundation/",
+			"/foundation",
+			"vendor",
+			"icon-star-on",
+			"icon-star",
+			"",
+			"yii_",
+			"group",
+			"img",
+			"report",
+			"Reports",
+			"reports",
+			"pages",
+			"Pages",
+			"pages",
+			"$content",
+			"group"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 282.0
+	},
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 333.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

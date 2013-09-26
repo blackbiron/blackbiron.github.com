@@ -1,0 +1,52 @@
+@import compass
+@import _custom-variables
+@import normalize
+// @import _vendor/html5bp
+@import _typography
+@import foundation
+// @import animate
+// @import _ie
+
+// @import 'icon/*.png'
+// +all-icon-sprites
+
+// sticky footer, if used
+
+html,
+body,
+footer
+  margin: 0
+  padding: 0
+
+html,
+body
+  height: 100%
+
+body:before
+  content: ""
+  height: 100%
+  float: left
+  width: 0
+  margin-top: -32767px
+
+#pageWrapper
+  min-height: 100%
+  margin:
+    top: 0
+    bottom: 0
+
+  #main
+    margin:
+      top: 0
+      bottom: 0
+    overflow: auto
+    padding-bottom: 50px //same height as footer
+
+footer
+  position: relative
+  margin-top: -50px
+  height: 50px
+  clear: both
+
+// end of sticky footer
+

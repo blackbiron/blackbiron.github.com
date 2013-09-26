@@ -1,0 +1,42 @@
+!!!5
+/[if lt IE 7] <html class="no-js lt-ie9 lt-ie8 lt-ie7">
+/[if IE 7] <html class="no-js lt-ie9 lt-ie8">
+/[if IE 8] <html class="no-js lt-ie9">
+%html.no-js
+  %head
+    %meta{:charset => "utf-8"}
+    %meta{:content => "IE=edge,chrome=1", "http-equiv" => "X-UA-Compatible"}
+
+    %title= page_title
+    %meta{:content => page_description, :name => "description"}
+
+    %meta{:content => "width=device-width", :name => "viewport"}
+    = javascript_include_tag "vendor/modernizr-2.6.2.min"
+    = stylesheet_link_tag (data.page.module) ? data.page.module : 'all'
+
+  %body{:id => (data.page.module) ? data.page.module : ''}
+    /[if lt IE 10] <p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p>
+    #pageWrapper
+      .row
+        .columns.large-6
+        .columns.large-6
+          %header
+            #main{:role => 'main'}
+              = yield
+    %footer
+      .row
+        .columns.small-12
+          asd
+
+    = javascript_include_tag "//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"
+    :javascript
+      window.jQuery || document.write('<script src=/javascripts/vendor/' + ('__proto__' in {} ? 'zepto' : 'jquery-2.0.3') + '.min.js><\/script>');
+    = javascript_include_tag "site"
+    /
+      :javascript
+        (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+        function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+        e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+        e.src='//www.google-analytics.com/analytics.js';
+        r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+        ga('create','UA-XXXXX-X');ga('send','pageview');
